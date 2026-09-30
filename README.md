@@ -1,9 +1,9 @@
-# Customer-Behaviour-Analytics
-# 🛒 Customer Shopping Behaviour Analytics Dashboard
+
+# 🛒 Customer Shopping Behaviour  Dashboard
 
 ## 📊 Project Overview
 
-The **Customer Shopping Behaviour Analytics Dashboard** is an end-to-end multi-tool data analytics project designed to analyze customer demographics, purchasing habits, spending patterns, product category preferences, payment choices, and subscription retention metrics.
+The **Customer Shopping Behaviour  Dashboard** is an end-to-end multi-tool data analytics project designed to analyze customer demographics, purchasing habits, spending patterns, product category preferences, payment choices, and subscription retention metrics.
 
 The project transforms raw retail transaction data into actionable business intelligence covering total revenue, average order value (AOV), discount sensitivity, seasonal purchasing trends, and review rating distributions using **Python**, **SQL**, and **Microsoft Power BI**.
 
@@ -93,10 +93,6 @@ The dataset captures full-spectrum customer transaction profiles and purchasing 
 
 4. **⭐ Improve Low Review Rating Products**
    * Analyze individual product feedback to raise the average rating from **3.75 toward 4.5+**, boosting customer trust and reducing return rates.
-
-## Dashboard Preview
-![Dashboard Preview](Blinkit_DashboardPreview.png)
-
 
 
 
