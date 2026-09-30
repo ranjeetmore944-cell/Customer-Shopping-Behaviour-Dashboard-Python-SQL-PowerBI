@@ -95,6 +95,8 @@ The dataset captures full-spectrum customer transaction profiles and purchasing 
    * Analyze individual product feedback to raise the average rating from **3.75 toward 4.5+**, boosting customer trust and reducing return rates.
 
 ## Dashboard Preview
-![Dashboard Preview](Blinkit_Dashboard_Preview.png)
+![Dashboard Preview](Blinkit_DashboardPreview.png)
+
+
 
 
